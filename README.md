@@ -1,7 +1,7 @@
-# PostScrypt Memory Collection API
+# Memory Collection API
 # Warning this is just a demo code for backend. It is not the actual code.
 ## Overview
-PostScrypt is a memory collection system using the OpenAI API with persistent SQL-based conversation storage. It allows users to collect and store memories and stories across various topics.
+It is a memory collection system using the OpenAI API with persistent SQL-based conversation storage. It allows users to collect and store memories and stories across various topics.
 
 ## Features
 - Collect and store conversations based on different topics.
